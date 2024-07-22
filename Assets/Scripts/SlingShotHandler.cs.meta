@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9b4822f6da087ac49beefb634f0a80e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _leftLineRenderer: {instanceID: 0}
+  - _rightLineRenderer: {instanceID: 0}
+  - _leftStartPosition: {instanceID: 0}
+  - _rightStartPosition: {instanceID: 0}
+  - _centerPosition: {instanceID: 0}
+  - _idlePosition: {instanceID: 0}
+  - _slingShotArea: {instanceID: 0}
+  - _angieBirdPrefab: {fileID: 344170432559104124, guid: f4c387d03d2596746b0baa855292a6f1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
